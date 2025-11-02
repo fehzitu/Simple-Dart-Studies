@@ -1,6 +1,6 @@
 ## 🌐 Dart (zero to code)
 
-This repository This contains my way of seeing and studying Dart, starting from absolute zero and going to a point where I can program comfortably.
+This repository contains my way of seeing and studying Dart, starting from absolute zero and going to a point where I can program comfortably.
 
 ## 🎯 Idea
 
