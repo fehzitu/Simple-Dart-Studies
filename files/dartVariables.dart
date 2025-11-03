@@ -26,3 +26,20 @@ int age = 18; // Explicit type: int
 dynamic data = "Text"; // You can change the typing
 final city = "Curitiba"; // You cannot change the typing
 const pi = 3.1415; // Fixed constant
+
+// { STEP 2: NOMENCLATURE AND NAMING STANDARDS }
+
+/*
+In Dart, we have naming conventions for variables:
+  - camelCase = 'firstLowercaseSecondUppercase';
+  - snake_case = 'all_lowercase_with_underscore_separating_words';
+  - PascalCase = 'FirstUppercaseSecondUppercase';
+  - kebab-case = 'all-lowercase-with-hyphen-separating-words'';
+
+  Example:
+*/
+
+var camelCase = 'Im an camelCase variable';
+var snake_case = 'Im an snake_case variable';
+var PascalCase = 'Im an PascalCase variable';
+var kebab_case = 'Im an kebab-case variable';
