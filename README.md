@@ -11,7 +11,7 @@ This repository contains my way of seeing and studying Dart, starting from absol
 ## 📗 All Topics
 
 Some of the main concepts explored include:
-- Variables and data types | Done
+- Variables and data types
 - Operators
 - Functions and scope
 - Conditionals and loops
