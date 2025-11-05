@@ -27,5 +27,21 @@ int subEqual -= 10; // same as subEqual = subEqual - 10
 /*
 { STEP 3: LOGICAL OPERATORS }
 
-// CODE HERE //
+Dart currently only has three logical operators, and it will be very important to know how and when to use them.
+
+Example of each:
 */
+
+void explain() {
+  if(a && b) {
+    print('If a and b');
+  } // If a and b are truly values execute the if code block
+
+  if(a || b) {
+    print('If a or b');
+  } // If a or b are truly value execute the if code block, here just one need to be true
+
+  if(!c) {
+    print('If not a');
+  } // If c are a falsy value or "not c" execute the if code block
+}
