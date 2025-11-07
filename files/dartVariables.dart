@@ -107,4 +107,7 @@ void hello() {
 /*
 It works normally here because the Dart compiler simply analyzes the entire file before compiling, so it already knows hello().
 Because they are in the same file and the compiler has already read the entire file before executing it.
+
+{ FINAL STEP: FINISH }
+That said, the most commonly used variables are: var, int, double, String & dynamic, always keeping in mind that dynamic and var can both receive any type of value, but var makes that type fixed while dynamic can always alternate.
 */

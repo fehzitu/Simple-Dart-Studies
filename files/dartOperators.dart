@@ -45,3 +45,8 @@ void explain() {
     print('If not a');
   } // If c are a falsy value or "not c" execute the if code block
 }
+
+/*
+{ FINAL STEP: FINISH }
+Besides being simple to understand, operators are few in number but are frequently used in everyday programming, so it's good to master them in detail.
+*/
