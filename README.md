@@ -28,7 +28,7 @@ Some of the main concepts explored include:
 - Class
 - Exception Handling
 
-## Files Sequence
+## 📋 Files Sequence
 - dartVariables.dart
 - dartOperators.dart
 - typeConversion.dart
