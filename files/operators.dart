@@ -9,8 +9,8 @@ int subtraction = a - b; // - is subtraction operator
 int multiplication = a * b; // * is multiplication operator
 int division = a / b; // / is division operator
 int rest = a % b; // % is rest of the division operator
-int increment = a++; // % is increment operator
-int decrement = a--; // % is decrement operator
+int increment = a++; // ++ is increment operator
+int decrement = a--; // -- is decrement operator
 
 /*
 { STEP 2: ASSIGNMENT OPERATORS }
@@ -40,6 +40,14 @@ void explain() {
   if(a || b) {
     print('If a or b');
   } // If a or b are truly value execute the if code block, here just one need to be true
+  
+  if(a == b) {
+    print('If a are equal b');
+  } // If a value are equal of b value
+  
+  if(a != b) {
+    print('If a are different of b')
+  } // If a value are different of b value
 
   if(!c) {
     print('If not a');
