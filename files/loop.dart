@@ -24,3 +24,7 @@ void second() {
     print(n);
   };
 }
+
+/*
+The second method is more similar to an array map, but it is still a loop
+*/
