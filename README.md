@@ -1,4 +1,4 @@
-## <img align="left" alt="Dart" title="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />(zero to code)
+## <img align="left" alt="Dart" title="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> Dart (zero to code)
 
 ## 🤔 Idea
 This repository contains my way of seeing and studying Dart, starting from absolute zero and going to a point where I can program comfortably
