@@ -27,7 +27,7 @@ Some of the main concepts explored include:
 - Fundamentals [ON GOING]
 - Data types
 - Variables ✔️
-- String
+- String ✔️
 - Type conversion ✔️
 - Constant
 - Null ✔️
