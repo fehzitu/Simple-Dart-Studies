@@ -29,7 +29,7 @@ Some of the main concepts explored include:
 - Variables ✔️
 - String ✔️
 - Type conversion ✔️
-- Constant
+- Constant ✔️
 - Null ✔️
 - Operators ✔️
 - Loop ✔️
