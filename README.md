@@ -25,18 +25,18 @@ This repository contains my way of seeing and studying Dart, starting from absol
 Some of the main concepts explored include:
 - Setup ✔️
 - Fundamentals [ON GOING]
-- Data types
+- Data types ✔️
 - Variables ✔️
 - String ✔️
 - Type conversion ✔️
-- Constant
+- Constant [I WILL START]
 - Null ✔️
 - Operators ✔️
 - Loop ✔️
-- Collection (List, Set & Map)
-- Function
-- Class
-- Exception Handling
+- Collection (List, Set & Map) [I WILL START]
+- Function [I WILL START]
+- Class [I WILL START]
+- Exception Handling [I WILL START]
 
 ## 📋 Files Sequence
 I separated everything into files. The sequence for understanding them is the same as the list of topics
