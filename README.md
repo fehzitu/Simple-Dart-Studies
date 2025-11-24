@@ -29,14 +29,14 @@ Some of the main concepts explored include:
 - Variables ✔️
 - String ✔️
 - Type conversion ✔️
-- Constant [I WILL START]
+- Constant ✔️
 - Null ✔️
 - Operators ✔️
 - Loop ✔️
-- Collection (List, Set & Map) [I WILL START]
-- Function [I WILL START]
-- Class [I WILL START]
-- Exception Handling [I WILL START]
+- Collection (List, Set & Map)
+- Function
+- Class
+- Exception Handling
 
 ## 📋 Files Sequence
 I separated everything into files. The sequence for understanding them is the same as the list of topics
