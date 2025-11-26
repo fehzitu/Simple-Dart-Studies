@@ -32,10 +32,8 @@ Some of the main concepts explored include:
 - Null ✔️
 - Operators ✔️
 - Loop ✔️
-- Collection (List, Set & Map)
-- Function
-- Class
-- Exception Handling
 
 ## 📋 Files Sequence
 I separated everything into files. The sequence for understanding them is the same as the list of topics
+
+## 💚 It's all very simple here, but it's for beginners to get started.
